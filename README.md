@@ -1,2 +1,3 @@
 # web_api
-A simple web api created in rust
+
+A simple web api template written in rust
